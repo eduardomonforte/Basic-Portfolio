@@ -89,6 +89,11 @@ p {
     margin-top: 10px;
 }
 
+.port {
+    width: 250px;
+    height: auto;
+}
+
 .footer {
     color: #ffffff;
     text-align: center;
