@@ -88,3 +88,10 @@ p {
     margin-right: 25px;
     margin-top: 10px;
 }
+
+.footer {
+    color: #ffffff;
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+    padding-top: 35px;
+}
