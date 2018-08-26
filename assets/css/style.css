@@ -69,37 +69,16 @@ p {
     font-size: 20px;
 }
 
-.main1 {
+.main {
     padding-top: 130px;
 }
 
-.aboutme {
+.section {
     margin-top: 30px;
     margin-bottom: 30px;
     border: 1px solid #dddddd;
     background-color: #ffffff;
-}
-
-.main2 {
-    padding-top: 130px;
-}
-
-.portfolio {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    border: 1px solid #dddddd;
-    background-color: #ffffff;
-}
-
-.main3 {
-    padding-top: 130px;
-}
-
-.contact {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    border: 1px solid #dddddd;
-    background-color: #ffffff;
+    padding: 30px;
 }
 
 .pp {
