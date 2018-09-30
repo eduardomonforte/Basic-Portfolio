@@ -30,6 +30,15 @@ p a {
     color: #4aaaa5;
 }
 
+h3 a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+h3 a:hover {
+    color: #dddddd;
+}
+
 h1, h2, h3 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-weight: 700;
@@ -115,6 +124,10 @@ nav a:first-child {
     margin-top: 10px;
     float: left;
     margin-right: 25px;
+}
+
+.hidden {
+    display: none;
 }
 
 /*footer*/
